@@ -1,3 +1,3 @@
 function test() {
-  broken stuff here
-;
+  console.log('broken stuff here');
+}
